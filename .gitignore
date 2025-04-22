@@ -1,0 +1,20 @@
+Data/
+
+
+# Ignore common data files
+*.pkl
+*.h5
+*.npy
+*.pt
+*.bin
+
+# Python-specific ignores
+__pycache__/
+*.py[cod]
+.venv/
+env/
+
+# Jupyter/IDE files
+.ipynb_checkpoints/
+.idea/
+.vscode/
