@@ -33,12 +33,6 @@ The core of the image captioning system consists of two main components:
     * An **LSTM Layer** with `lstm_units` processes the embedded sequence, initialized with the image features from the encoder. The `return_sequences=True` argument ensures that the LSTM outputs a sequence of hidden states for each word.
     * A final **Dense Layer** with a `softmax` activation predicts the probability distribution over the vocabulary for each word in the output sequence.
 
-  ## Sample Outputs
-
-Here are a couple of examples showcasing the generated captions from the model:
-## Sample Outputs
-
-Here are a couple of examples showcasing the generated captions from the model:
 ## Sample Outputs
 
 Here are a couple of examples showcasing the generated captions from the model:
