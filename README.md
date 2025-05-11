@@ -38,8 +38,7 @@ The core of the image captioning system consists of two main components:
 Here are a couple of examples showcasing the generated captions from the model:
 
 **Image 1:**
-<img src="Screenshot From 2025-05-12 02-01-50.png" alt="A group of dogs running in a grassy field" width="300">
-**Generated Caption:** `<start> a group of dogs are running in a grassy field <end>`
+<img src="Screenshot From 2025-05-12 02-01-50.png" 
 
 **Image 2:**
 <img src="Screenshot From 2025-05-12 02-02-38.png"
